@@ -389,7 +389,7 @@ html {
 }
 
 .navbar-brand img {
-  width: 125px;
+  width: 120px;
 }
 
 .main-section {
@@ -405,9 +405,6 @@ html {
   justify-content: space-between;
   height: 69px;
   align-items: center;
-}
-.main-section__logo {
-  width: 134px;
 }
 .main-section__content-container {
   position: relative;
