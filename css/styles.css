@@ -79,7 +79,16 @@ html {
 }
 
 .navbar-brand img {
-  width: 120px;
+  width: 100px;
+}
+
+.carousel-item {
+  position: relative;
+}
+.carousel-item img {
+  height: 650px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .main-section {
